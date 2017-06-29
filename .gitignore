@@ -1,1 +1,4 @@
 env
+config.yaml
+.gitignore
+old_ip
